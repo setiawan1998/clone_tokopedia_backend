@@ -1,4 +1,6 @@
+### `desc`
+nodejs & express js
 
-### `npm install`
-
-### `npm start`
+### `how to run`
+- npm install
+- npm start
